@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562611631201.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C9D14336",
+    "lastKnownWriteTime" : 94141544796656,
+    "last_content_update" : 1562611631201,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "E577184D",
+        "caption" : "zxc",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=zxc&cache_key=E577184D",
+        "displayedObservations" : 1,
+        "environment" : "",
+        "expression" : "zxc",
+        "object" : "zxc",
+        "preview" : 0,
+        "totalObservations" : 1,
+        "variables" : 38
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
